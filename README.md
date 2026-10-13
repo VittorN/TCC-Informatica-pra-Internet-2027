@@ -9,3 +9,11 @@ O projeto tem como objetivo facilitar a organização e o acompanhamento das fin
 
 ### Main Feature
 O sistema também contará com um registro de auditoria, que permitirá rastrear alterações realizadas nos dados, aumentando a transparência e a confiabilidade das informações financeiras.
+
+## Protótipo navegável
+
+O protótipo visual está em `index.html`. Abra esse arquivo no navegador; não é necessário instalar dependências nem iniciar um servidor.
+
+As telas incluem acesso e cadastro, painel financeiro, movimentações, relatórios, auditoria, categorias e setores, além da gestão de usuários e cargos. Use o seletor **Perfil de demonstração** no cabeçalho para alternar entre pastor presidente e usuário ativo e visualizar as permissões de cada perfil. O botão de saída leva à tela de acesso.
+
+Os dados são fictícios e ficam apenas em memória durante a navegação. Autenticação, persistência, envio de e-mails e controles reais de segurança não fazem parte deste protótipo.
